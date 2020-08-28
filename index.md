@@ -4,21 +4,21 @@
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![Alt Text](https://github.com/Smithsonian64/CS477/blob/master/gifs/loadingCart.gif)
+![Loading a cart from BBS](https://github.com/Smithsonian64/CS477/blob/master/gifs/loadingCart.gif)
 
 ### Loading pasted code
 
-![Alt Text](https://github.com/Smithsonian64/CS477/blob/master/gifs/codePaste.gif)
+![Pasting code from BBS into the editor then runing it](https://github.com/Smithsonian64/CS477/blob/master/gifs/codePaste.gif)
 
 ### Printing hello
 
-![Alt Text](https://github.com/Smithsonian64/CS477/blob/master/gifs/typingHello.gif)
+![Typing code in the editor to print "HELLO, MICHAEL" then running it](https://github.com/Smithsonian64/CS477/blob/master/gifs/typingHello.gif)
 
 ### Using splore
 
-![Alt Text](https://github.com/Smithsonian64/CS477/blob/master/gifs/sploring.gif)
+![Showing the navigation of splore](https://github.com/Smithsonian64/CS477/blob/master/gifs/sploring.gif)
 
 ### Carts folder
 
-![Alt Text](https://github.com/Smithsonian64/CS477/blob/master/gifs/cartsFolder.png)
+![Showing the location of the carts folder on my machine](https://github.com/Smithsonian64/CS477/blob/master/gifs/cartsFolder.png)
 
