@@ -2,7 +2,7 @@
 
 ### Loading a cart
 
-![Loading a cart from BBS](https://github.com/Smithsonian64/CS477/blob/gh-pages/assets/loadingCart.gif)
+![Loading a cart from BBS](https://raw.githubusercontent.com/Smithsonian64/CS477/gh-pages/assets/loadingCart.gif)
 
 ### Loading pasted code
 
@@ -10,13 +10,13 @@
 
 ### Printing hello
 
-![Typing code in the editor to print "HELLO, MICHAEL" then running it](https://github.com/Smithsonian64/CS477/blob/master/gifs/typingHello.gif)
+![Typing code in the editor to print "HELLO, MICHAEL" then running it](https://raw.githubusercontent.com/Smithsonian64/CS477/gh-pages/assets/typingHello.gif)
 
 ### Using splore
 
-![Showing the navigation of splore](https://github.com/Smithsonian64/CS477/blob/master/gifs/sploring.gif)
+![Showing the navigation of splore](https://raw.githubusercontent.com/Smithsonian64/CS477/gh-pages/assets/sploring.gif)
 
 ### Carts folder
 
-![Showing the location of the carts folder on my machine](https://github.com/Smithsonian64/CS477/blob/master/gifs/cartsFolder.png)
+![Showing the location of the carts folder on my machine](https://raw.githubusercontent.com/Smithsonian64/CS477/gh-pages/assets/cartsFolder.png)
 
