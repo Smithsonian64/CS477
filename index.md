@@ -2,8 +2,6 @@
 
 ### Loading a cart
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ![Loading a cart from BBS](https://github.com/Smithsonian64/CS477/blob/master/gifs/loadingCart.gif)
 
 ### Loading pasted code
