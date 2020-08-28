@@ -6,7 +6,7 @@
 
 ### Loading pasted code
 
-![Pasting code from BBS into the editor then runing it](https://github.com/Smithsonian64/CS477/blob/master/gifs/codePaste.gif)
+![Pasting code from BBS into the editor then runing it](https://raw.githubusercontent.com/Smithsonian64/CS477/gh-pages/assets/codePaste.gif)
 
 ### Printing hello
 
