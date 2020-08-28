@@ -2,7 +2,7 @@
 
 ### Loading a cart
 
-![Loading a cart from BBS](https://github.com/Smithsonian64/CS477/blob/master/gifs/loadingCart.gif)
+![Loading a cart from BBS](master/gifs/loadingCart.gif)
 
 ### Loading pasted code
 
